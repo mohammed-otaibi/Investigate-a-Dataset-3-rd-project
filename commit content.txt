@@ -1,0 +1,7 @@
+Type: docs
+
+Adding and modifying commit
+I make a new commit to insert a content of the commit, for this repository.
+and I am not modfying on readme file.
+
+By: Mohammed Zaiyd
